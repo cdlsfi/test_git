@@ -9,3 +9,5 @@ while word != "stop":
 
 
 print(tableau)  
+
+ajouter quelques choses
